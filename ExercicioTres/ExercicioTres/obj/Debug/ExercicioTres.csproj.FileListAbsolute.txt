@@ -1,0 +1,8 @@
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\bin\Debug\ExercicioTres.exe.config
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\bin\Debug\ExercicioTres.exe
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\bin\Debug\ExercicioTres.pdb
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\obj\Debug\ExercicioTres.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\obj\Debug\ExercicioTres.csproj.SuggestedBindingRedirects.cache
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\obj\Debug\ExercicioTres.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\obj\Debug\ExercicioTres.exe
+C:\Users\abner\source\repos\ExercicioTres\ExercicioTres\obj\Debug\ExercicioTres.pdb

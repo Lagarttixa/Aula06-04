@@ -1,0 +1,8 @@
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\bin\Debug\ExercicioDois.exe.config
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\bin\Debug\ExercicioDois.exe
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\bin\Debug\ExercicioDois.pdb
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\obj\Debug\ExercicioDois.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\obj\Debug\ExercicioDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\obj\Debug\ExercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\obj\Debug\ExercicioDois.exe
+C:\Users\abner\source\repos\ExercicioDois\ExercicioDois\obj\Debug\ExercicioDois.pdb
